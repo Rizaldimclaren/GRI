@@ -1,0 +1,25 @@
+
+*{
+    background-color: black;
+}
+
+.layout{
+    width: 50%;
+    margin-left: 25%;
+    color:white;
+    text-align: center;
+}
+
+.large-text{
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.image-viewer{
+    width: 100%;
+    border: 3px solid white;
+}
+
+
+
