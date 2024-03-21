@@ -6,8 +6,11 @@
 .layout{
     width: 50%;
     margin-left: 25%;
+    height: 50%;
+    position: absolute;
     color:white;
     text-align: center;
+    top:25vh;
 }
 
 .large-text{
